@@ -30,4 +30,11 @@ This course is about programming languages.  As a result of taking this course, 
 - Read the [[Syllabus]] so you know what to expect from this course.
 - Read the advice for [[How to Succeed in this Course]].  
 
+## Sections
 
+If you are trying to register, here is what the different sections mean.
+- B3 :: For undergraduates
+- B4 :: For graduate students.  Note you must select 3 or 4 credits when you register.
+- CSP :: Chicago City Scholars.  This section meets in Chicago and is part of the City Scholars program.
+- MC3 :: For Chicago City Scholars in the MCS program.  3 Hours.
+- MC4 :: For Chicago City Scholars in the MCS program.  4 Hours.
