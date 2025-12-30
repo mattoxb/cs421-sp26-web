@@ -6,9 +6,6 @@ title: CS 421 Home
 ---
 ## Welcome to CS 421 (Spring 2026)!
 
-### Page has moved to https://cs421-sp26-web.pages.dev
-Cloudflare has a much more generous bandwidth allotment! 
-
 ### Quick Links
 
 - [[Lecture Schedule]]
