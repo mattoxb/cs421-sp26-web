@@ -29,6 +29,9 @@ This course is about programming languages.  As a result of taking this course, 
 	- If you registered before class started, you should have gotten an invite.  These will go out January 16th and the day before classes start.  If you registered late, or did not get the invite, follow the link above for the join code.
 - Read the [[Syllabus]] so you know what to expect from this course.
 - Read the advice for [[How to Succeed in this Course]].  
+- You probably want to [install Haskell](https://www.haskell.org/ghcup/)
+  - We will use GHC version 9.8.4 (and LTS 23.28 if you are curious but you shouldn't need to know that part)
+  - Also install the recommeded cabal and the HLS (Haskell Language Server) versions.
 
 ## Sections
 
