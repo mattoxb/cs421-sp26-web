@@ -35,8 +35,8 @@ The staff will also monitor Discord during the lecture times to make it easier t
 
 ### Joining Campuswire
 
-Invitation Link: https://campuswire.com/p/GD13D08D5
-Code: 5249
+Invitation Link: https://campuswire.com/p/G6A91C6A0
+Code: 7873
 
 ### Joining Discord
 
