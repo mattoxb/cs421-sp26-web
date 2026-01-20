@@ -42,6 +42,10 @@ Code: 7873
 
 Invitation link: https://discord.gg/V6b7q5kW
 
+### Joining Prairielearn
+
+Course Instance Link: https://us.prairielearn.com/pl/course_instance/206336
+
 ## Good Reasons to Email the Prof
 
 There are hundreds of you, and only one instructor.  If everyone sends an email the system will bog down.  This is the purpose

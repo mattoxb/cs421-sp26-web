@@ -7,7 +7,7 @@ tags:
 
 You may also be interested in the [[Exam Schedule]].
 
-Lecture capture will be on [MediaSpace](https://mediaspace.illinois.edu/channel/CS+421+Spring+2025/369822972/subscribe).  Capture videos typically get uploaded within 12 hours.
+Lecture capture will be on [MediaSpace](https://mediaspace.illinois.edu/channel/CS+421+Spring+2026/399960643/subscribe).  Capture videos typically get uploaded within 12 hours.
 
 
 | Week | Date                | Lecture                                |
