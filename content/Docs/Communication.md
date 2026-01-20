@@ -40,6 +40,7 @@ Code: 7873
 
 ### Joining Discord
 
+Invitation link: https://discord.gg/V6b7q5kW
 
 ## Good Reasons to Email the Prof
 
