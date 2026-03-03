@@ -1,3 +1,9 @@
+---
+id: Exam Schedule
+aliases: []
+tags: []
+---
+
 
 | Exam                   | Start Date          | End Date        | Registration Open |
 |------------------------|---------------------|-----------------|-------------------|
@@ -14,3 +20,6 @@ You can register for exams at [Prairietest](https://prairietest.org).  Some guid
 - **If you missed the exam, email [[Mattox Beckman]] ASAP to make arrangements.**
 
 You may also be interested in the [[Lecture Schedule]].
+
+Or maybe the [[Exam FAQ]] !
+

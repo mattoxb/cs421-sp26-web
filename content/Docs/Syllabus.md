@@ -81,7 +81,7 @@ Any problem with testing in the CBTF must be reported to CBTF staff at the time 
 ### Final Exam
 
 The final will consist of retake opportunities of the midterm exams.  You may repeat any of the questions you missed for another attempt to demonstrate your
-mastery of the material.
+mastery of the material.  See the [[Exam FAQ]] for more information.
 
 ### 4th Hour Project
 

@@ -1,4 +1,10 @@
-Almost everything we assign will be on Code Forces, but it's also nice to be able to calculate your total score and see what letter grade corresponds to it.  We will use the [[github.com]] service to post your grade breakdown.
+---
+id: Your GitHub Repository
+aliases: []
+tags: []
+---
+
+Almost everything we assign will be on Prairielearn, but it's also nice to be able to calculate your total score and see what letter grade corresponds to it.  We will use the [[github.com]] service to post your grade breakdown.
 
 If you've never used GitHub before, don't worry; you don't need to know anything about it to get started.  Skip ahead to the [[Your GitHub Repository#Procedure]] section and follow the instructions there.  If you are curious about the technical details, what is happening is you will create a GitHub account if you don't already have one, and associate your university netid with it.  Then we will create a repository in a special GitHub organization that is unique to you and only accessible by you and the course staff.  Every morning we will run a script that will populate the repository with the current snapshot of your grades.
 
