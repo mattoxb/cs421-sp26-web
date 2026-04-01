@@ -32,4 +32,4 @@ map f (x:xs) = f x : map f xs
  - [[Map and Foldr]]
  
 ## Handouts
- - [[/assets/handouts/hofs-pogil.pdf|Higher Order Functions Activity (pdf}]]
+ - [[/assets/handouts/hofs-pogil.pdf|Higher Order Functions Activity (pdf)]]

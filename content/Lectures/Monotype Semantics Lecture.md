@@ -16,5 +16,5 @@ have only one ground type.
 ## Videos
  - [[Monotype Semantics]]
 ## Handouts
- - [[monotype-activity-pogil.pdf|Monotype activty (PDF)]]
+ - [[monotype-activity-pogil.pdf|Monotype activity (PDF)]]
  - [[monotype-rules.pdf|Monotype Rules (PDF)]]

@@ -2,7 +2,7 @@ Meeting location: Illini Center, 200 S. Wacker
 
 The instructor will visit Chicago on the following dates:
 
-- January 22th, 2026
+- January 22nd, 2026
 - February 5th, 2026
 - February 12th, 2026
 - February 26th, 2026

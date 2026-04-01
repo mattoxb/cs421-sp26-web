@@ -14,4 +14,4 @@ a few ways to do that here.
 ## Handouts
  - [[macros-activity.pdf|Macros Activity (PDF)]]
 ## Further Reading
- - [Let over Lambda](https://letoverlambda)  One of the most bizarre programming books I have ever seen.  Glorious.
+ - [Let over Lambda](https://letoverlambda.com)  One of the most bizarre programming books I have ever seen.  Glorious.

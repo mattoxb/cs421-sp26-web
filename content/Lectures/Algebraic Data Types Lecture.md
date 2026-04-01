@@ -15,7 +15,7 @@ We will also cover [[Pairs]], which we will use a lot, and [[Records]], which we
  - [[Product Types]]
  -  [[Sum Types, Part 1]]
  - [[Sum Types, Part 2]]
-## Activitites
+## Activities
  - [[/assets/handouts/adt-pogil.pdf|Algebraic Data Type Activity (pdf)]]
 ## Further Reading
  - [Generalized Algebraic Data Types](https://en.wikibooks.org/wiki/Haskell/GADT)

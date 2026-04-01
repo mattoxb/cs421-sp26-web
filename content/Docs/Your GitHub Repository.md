@@ -18,11 +18,11 @@ Please note that **this is a multi-step process**!  If you do not follow **all**
 
 2. Click on the "Log in to GitHub.com".  This will open a new page; follow the instructions.  If you already have a GitHub account, log in as you normally would.  If you do not have a GitHub account already, create one here.  It's worth creating a name you like, since you will almost certainly use GitHub in future classes and in the professional world.
 
-3. Once you are done, return to the original page and click "I've logged in!".  You will see a new page in respone:
+3. Once you are done, return to the original page and click "I've logged in!".  You will see a new page in response:
 
    ![[join_org.png]]
    
-   This is an invitation to join the UIUC Coursework organization on GitHub.  Click on `Join org: Illinos-cs-coursework`.
+   This is an invitation to join the UIUC Coursework organization on GitHub.  Click on `Join org: Illinois-cs-coursework`.
    
 4. This will take you to GitHub again, with the following page:
 
@@ -30,7 +30,7 @@ Please note that **this is a multi-step process**!  If you do not follow **all**
 
    Click on "Continue".  You will be authenticated via UIUC's login systems, and probably have to interact with the dreaded Duo authentication app.
    
-   Once that is done, you will probably see a page this one, using your own netid and not mine:
+   Once that is done, you will probably see a page like this one, using your own netid and not mine:
 
    ![[repo_is_ready.png]]
    

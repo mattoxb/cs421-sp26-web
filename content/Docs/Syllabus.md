@@ -59,7 +59,7 @@ Basically these are homework.  You will solve a set of problems according to the
 
 ### Machine Problems
 
-Typically there will be about six machine problems, called *machine problems* (MPs). they will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
+Typically there will be about six machine problems, called *machine problems* (MPs). They will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
 
 These will be released on Tuesdays and due the Monday 13 days later.  There is an automatic one week extension for 80% credit.
 
@@ -71,7 +71,7 @@ There are three midterm exams.  These will all be proctored in the [[Computer Ba
 
 One week before an exam, we will provide a practice exam that follows the same format for your studying pleasure.
 
-Each exam will be broken into four or five *zones*.  Each zone represents a learning goal, and is waited equally in your grade report.
+Each exam will be broken into four or five *zones*.  Each zone represents a learning goal, and is weighted equally in your grade report.
 (So a zone with 20 points and a zone with 10 points will both have the same weight as far as determining grades.)  The zones may have a different number of questions.
 
 If you have accommodations identified by the division of rehabilitation-education services (DRES) for exams, please take your letter of accommodation (LOA) to the CBTF proctors in person before you make your first exam reservation. The proctors will advise you as to whether the CBTF provides your accommodations or whether you will need to make other arrangements with your instructor.
@@ -138,15 +138,15 @@ Note that we do not round up grades for any reason.  With a class this size, the
 ## Code of Conduct
 
 Our class (and life in general!) will work better if we maintain professionalism and respect for each other.  We expect
-courteous and respectful communication at all times, as well as a committment to integerity and honesty in your work.
+courteous and respectful communication at all times, as well as a commitment to integrity and honesty in your work.
 
 ## Academic Integrity
 
 The University of Illinois at Urbana-Champaign student code should also be
 considered as a part of this syllabus. Students should pay particular attention
 to Article 1, Part 4: Academic Integrity. Academic dishonesty may result in a
-failing grade. Every student is expected to review and abide by the [academic integrity policy]([http://studentcode.illinois.edu/). 
-Ignorance is not an excuse for any academic dishonesty. it is
+failing grade. Every student is expected to review and abide by the [academic integrity policy](http://studentcode.illinois.edu/).
+Ignorance is not an excuse for any academic dishonesty. It is
 your responsibility to read this policy to avoid any misunderstanding. Do not
 hesitate to ask the instructor(s) if you are ever in doubt about what
 constitutes plagiarism, cheating, or any other breach of academic integrity.

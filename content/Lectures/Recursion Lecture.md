@@ -20,7 +20,7 @@ questions for five minutes or so.
    $$\Sigma_{i=1}^n 2i-1 = n^2$$  
    
    Try to prove this by induction; remember you need
-   a base case (when \\(n=1\\)) and an induction case (when $n > 1$l). 
+   a base case (when \\(n=1\\)) and an induction case (when $n > 1$). 
  - In your favorite language, try to write a recursive function that
    computes $n^2$ in the same way, by summing the first $n$ odd numbers.
  - Imagine that you had a recursive function that never made use

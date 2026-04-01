@@ -19,4 +19,4 @@ you to define the higher order function `map` for any type you want.
 
 ## Further Reading
  - [The Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) Read this if you want a broader understanding of type classes.
- - [Variadic functions in Haskelll](http://okmij.org/ftp/Haskell/polyvariadic.html) They used type classes to trick Haskell into allowing us to have functions with a variable number of parameters!
+ - [Variadic functions in Haskell](http://okmij.org/ftp/Haskell/polyvariadic.html) They used type classes to trick Haskell into allowing us to have functions with a variable number of parameters!

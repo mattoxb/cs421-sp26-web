@@ -1,4 +1,4 @@
-One of the more difficult things needed to run a class of hundreds of students is managing communication.  Fortunately it's easy to manage if we use the technology efficiently.  There are three primary ways of communicating with course staff:
+One of the more difficult things needed to run a class of hundreds of students is managing communication.  Fortunately it's easy to manage if we use the technology efficiently.  There are four primary ways of communicating with course staff:
 - Office hours
 - CampusWire
 - Discord
@@ -6,7 +6,7 @@ One of the more difficult things needed to run a class of hundreds of students i
 
 ## Office Hours
 
-We will have an [[Office Hours Schedule]] updated on the second week of class.  It's best if you arrive toward the beginning of the session.  Please see our guide to [[How to Succeed in this Coures]] for more details about office hours.
+We will have an [[Office Hours Schedule]] updated on the second week of class.  It's best if you arrive toward the beginning of the session.  Please see our guide to [[How to Succeed in this Course]] for more details about office hours.
 
 ## CampusWire
 

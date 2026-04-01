@@ -4,9 +4,9 @@ tags:
 ---
 ## Synopsis
 
-Regular languages and languages that can be recognized
+Regular languages are languages that can be recognized
 with only a finite amount of memory and no backtracking.
-They correspond to right linear gramamrs.
+They correspond to right linear grammars.
 
 A very useful application of this is in lexing and searching.
 
